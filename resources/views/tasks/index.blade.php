@@ -5,8 +5,8 @@
 
     <h1>Posts Data</h1>
         <table class="table table-striped">
-        <th><strong>id </strong></th>
-        <th><strong> task </strong></th>
+        <th><strong>ID</strong></th>
+        <th><strong> Task </strong></th>
 
         @foreach ($tasks as $task)
         <tr>
